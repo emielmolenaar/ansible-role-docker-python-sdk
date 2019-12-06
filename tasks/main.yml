@@ -1,0 +1,6 @@
+---
+
+- name: "Ensure Python Docker SDK packages are present"
+  package:
+    pkg: "{{ docker_python_packages }}"
+    state: "{{ docker_python_packages_state }}"

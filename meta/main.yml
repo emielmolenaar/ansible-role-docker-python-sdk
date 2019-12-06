@@ -1,0 +1,14 @@
+---
+
+galaxy_info:
+  role_name: ansible-role-docker-python-sdk
+  author: Emiel Molenaar
+  description: An Ansible role to install the Python docker SDK on APT compatible hosts
+  issue_tracker_url: https://github.com/emielmolenaar/ansible-role-docker-python-sdk/issues
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.9
+  galaxy_tags:
+    - docker
+    - python
+    - sdk
+  dependencies: []
