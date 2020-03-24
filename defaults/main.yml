@@ -2,4 +2,4 @@
 
 docker_python_packages_state: present
 docker_python_packages: 
-  - python-docker
+  - python3-docker
